@@ -18,7 +18,7 @@ Two-Dimensional Arrays:
 
 You can imagine it like a table where each cell contains elements.
 
-#List of practicals to be performed
+# List of practicals to be performed
 
 | Difficulty | Problem                                         | Type | Link                                                                 |
 |------------|-------------------------------------------------|------|----------------------------------------------------------------------|
